@@ -4,6 +4,8 @@
 
 热爱游戏和音乐）梦想成为厉害的程序员开发喜爱的项目
 
-Ars longa , vita brevis.![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Courtshipfy&layout=compact&theme=radical&locale=cn)
+Ars longa , vita brevis.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Courtshipfy&layout=compact&theme=radical&locale=cn)
 
 
