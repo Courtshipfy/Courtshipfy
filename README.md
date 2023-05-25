@@ -13,8 +13,3 @@ The technology stack is C++ / C# / Lua / Unreal Engine / Unity
 Love games and music dream of being a great programmer working on favorite projects)
 
 Art is long , life is short.
-
-------------------------
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Courtshipfy&layout=compact&theme=radical&locale=cn)
-
