@@ -1,4 +1,4 @@
-## 无趣的人
+是个无趣的人
 
 技术栈是C++ / C# / Lua / Unreal Engine / Unity
 
